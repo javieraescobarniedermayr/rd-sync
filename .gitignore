@@ -1,0 +1,6 @@
+*.html
+*.json
+*.jsonl
+*.enc
+.bridge_key
+.DS_Store
